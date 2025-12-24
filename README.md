@@ -56,32 +56,9 @@ Accordy-Keyboard 是一款专为 AR/VR 环境设计的创新输入方案。通�
 
 ## Collaboration / 合作招募
 
-### We're Looking For / 我们正在寻找
+Developers, designers, or hardware engineers interested in this project are welcome to contact us via GitHub Issues.
 
-**Hardware Engineers / 硬件工程师**
-- Experience in compact keyboard design / 紧凑键盘设计经验
-- PCB design and embedded systems / PCB 设计和嵌入式系统
-
-**AR/VR Developers / AR/VR 开发者**
-- Unity/Unreal Engine expertise / Unity/Unreal Engine 专业技能
-- Hand tracking and spatial computing / 手部追踪和空间计算
-
-**UX/UI Designers / UX/UI 设计师**
-- AR/VR interface design experience / AR/VR 界面设计经验
-- Human-computer interaction research / 人机交互研究
-
-**Investors & Partners / 投资者与合作伙伴**
-- Interested in next-gen input devices / 对下一代输入设备感兴趣
-- AR/VR ecosystem participants / AR/VR 生态系统参与者
-
-### Contact / 联系方式
-
-If you're interested in collaborating, please open an issue or reach out via:
-
-如果您有兴趣合作，请提交 Issue 或通过以下方式联系：
-
-- GitHub Issues
-- Email: [Your Email Here]
+对该项目有兴趣的开发者、设计师或硬件工程师，欢迎通过 GitHub Issues 联系。
 
 ---
 
